@@ -1,5 +1,6 @@
 # Inventory-Management-of-Fossil-watches-
 A data-driven dashboard to optimize inventory management and sales performance for Fossil Watch Company, addressing inefficiencies contributing to significant financial losses.
+<a href= "https://app.powerbi.com/groups/me/reports/861677cb-4a43-4917-9552-a79f6c396262/ReportSection?experience=power-bi"> Inventroy Management of Fossil Watches <\a>
 
 # Project Description 
 This project involves the development of an advanced data-driven inventory management and optimization system for Fossil Watch Company. The primary goal was to address inefficiencies in inventory control, supply chain management, and sales forecasting, which contributed to a staggering $20 billion loss in 2017. By leveraging data visualization, advanced analytics, and inventory modeling techniques, this dashboard empowers stakeholders to make informed decisions to reduce costs, optimize stock levels, and enhance operational efficiency.
