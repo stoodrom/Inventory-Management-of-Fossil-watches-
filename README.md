@@ -1,4 +1,4 @@
-# Inventory-Management-of-Fossil-watches-
+# Inventory-Management-of-Fossil-watches
 A data-driven dashboard to optimize inventory management and sales performance for Fossil Watch Company, addressing inefficiencies contributing to significant financial losses.
 <a href= "https://app.powerbi.com/groups/me/reports/861677cb-4a43-4917-9552-a79f6c396262/ReportSection?experience=power-bi"> Inventroy Management of Fossil Watches <\a>
 
